@@ -1,0 +1,38 @@
+title {
+  color: red;
+  text-align: center;
+  font-size: 300%;
+  font: Arial;
+}
+h1 {
+	    color: white;
+    font-size: 3em;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+	background-color: black;
+	color: white;
+   p1 {
+    font-family: Milkshake;
+    }
+	
+	ol {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+	}
+
+	a:link {
+  color: blue;
+	}
+	a:visited {
+  color: green;
+	}
+	a:hover {
+  color: grey;
+	}
+	a:active {
+  color: red;
+	}
+
+}
